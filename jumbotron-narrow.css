@@ -78,3 +78,7 @@ body {
     border-bottom: 0;
   }
 }
+
+.img-circle {
+    border-radius: 50%;
+}
